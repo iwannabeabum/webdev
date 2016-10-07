@@ -1,2 +1,2 @@
 # webdev
-Coursera Wed Developer - Course Assignments
+Coursera Web Developer - Course Assignments
