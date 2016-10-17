@@ -36,6 +36,11 @@ hr {
   margin: 0 -15px 0 -15px;
 }
 
+.container-fluid div {
+  padding-left: 0;
+  padding-right: 0;
+}
+
 h2 {
   color: #557c3e;
 }
