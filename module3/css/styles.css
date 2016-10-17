@@ -48,6 +48,7 @@ hr {
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #557c3e;
 }
+
 .navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -30px;
@@ -77,9 +78,9 @@ p {
 }
 
 .menu-item h3 {
-    font-size: 1.25em;
-    text-align: center;
-    margin: 3px;
+  font-size: 1.25em;
+  text-align: center;
+  margin: 3px;
 }
 
 .menu-item span {
